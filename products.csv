@@ -1,0 +1,101 @@
+product_name,item_num,price,category_name,pet_type_name
+Dog Food Premium,DFP001,3250,Food,Dog
+Cat Food Deluxe,CFD002,1800,Food,Cat
+Bird Seed Mix,BSM003,700,Food,Bird
+Fish Flakes,FF004,500,Food,Fish
+Dog Chew Toy,DCT005,1200,Toys,Dog
+Cat Scratching Post,CSP006,2200,Toys,Cat
+Bird Swing,BS007,800,Toys,Bird
+Aquarium Decorations,AD008,1500,Toys,Fish
+Dog Collar Large,DCL009,900,Accessories,Dog
+Cat Collar Small,CCS010,850,Accessories,Cat
+Bird Cage,BG011,2500,Accessories,Bird
+Fish Tank,FT012,3000,Accessories,Fish
+Dog Shampoo,DS013,1000,Health,Dog
+Cat Flea Treatment,CFT014,1200,Health,Cat
+Bird Vitamins,BV015,600,Health,Bird
+Fish Water Conditioner,FWC016,700,Health,Fish
+Dog Leash,DL017,1300,Accessories,Dog
+Cat Litter,CL018,700,Accessories,Cat
+Bird Bath,BB019,950,Accessories,Bird
+Fish Heater,FH020,1700,Health,Fish
+Dog Bed,DB021,2000,Accessories,Dog
+Cat Bed,CB022,1900,Accessories,Cat
+Bird Perch,BP023,2500,Accessories,Bird
+Fish Filter,FF024,1300,Health,Fish
+Dog Sweater,DS025,800,Accessories,Dog
+Cat Toy Mouse,CTM026,500,Toys,Cat
+Bird Feeder,BF027,700,Accessories,Bird
+Fish Pump,FP028,1200,Accessories,Fish
+Dog Harness,DH029,1500,Accessories,Dog
+Cat Climbing Tree,CCT030,2500,Accessories,Cat
+Bird House,BH031,1600,Accessories,Bird
+Aquarium Gravel,AG032,1000,Accessories,Fish
+Dog Jacket,DJ033,1700,Accessories,Dog
+Cat Collar Large,CCL034,900,Accessories,Cat
+Bird Toy,BT035,600,Toys,Bird
+Fish Net,FN036,500,Accessories,Fish
+Dog Dental Chews,DDC037,1300,Health,Dog
+Cat Dental Treats,CDT038,1200,Health,Cat
+Bird Cuttlefish,BCL039,300,Health,Bird
+Fish Medicine,FM040,800,Health,Fish
+Dog Water Bottle,DWB041,700,Accessories,Dog
+Cat Water Fountain,CWF042,1500,Accessories,Cat
+Bird Mirror,BM043,400,Toys,Bird
+Fish LED Light,FLL044,900,Accessories,Fish
+Dog Training Pads,DTP045,1300,Health,Dog
+Cat Grooming Brush,CGB046,800,Accessories,Cat
+Bird Water Dispenser,BWD047,500,Accessories,Bird
+Fish Plant,FPL048,600,Accessories,Fish
+Dog Toothbrush,DT049,700,Health,Dog
+Cat Nail Clippers,CNC050,600,Health,Cat
+Bird Beak Trim,BBT051,500,Health,Bird
+Fish Filter Sponge,FFS052,300,Accessories,Fish
+Dog Travel Crate,DTC053,2200,Accessories,Dog
+Cat Travel Crate,CTC054,2100,Accessories,Cat
+Bird Travel Cage,BTC055,1800,Accessories,Bird
+Aquarium Air Pump,AAP056,1400,Accessories,Fish
+Dog Toy Ball,DTB057,600,Toys,Dog
+Cat Toy Ball,CTB058,550,Toys,Cat
+Bird Ladder,BL059,700,Accessories,Bird
+Fish Bubbler,FB060,500,Accessories,Fish
+Dog Winter Boots,DWB061,1800,Accessories,Dog
+Cat Window Perch,CWP062,1700,Accessories,Cat
+Bird Stand,BSD063,1600,Accessories,Bird
+Fish Water Filter,FWF064,1500,Accessories,Fish
+Dog Raincoat,DR065,2000,Accessories,Dog
+Cat Raincoat,CR066,1900,Accessories,Cat
+Bird Rope,BRO067,700,Toys,Bird
+Aquarium Thermometer,AT068,500,Accessories,Fish
+Dog Safety Vest,DSV069,1400,Accessories,Dog
+Cat Carrier,CC070,1600,Accessories,Cat
+Bird Grooming Kit,BGK071,1200,Health,Bird
+Fish Food Pack,FFP072,700,Food,Fish
+Dog Chew Bone,DCB073,900,Toys,Dog
+Cat Play Tunnel,CPT074,1300,Toys,Cat
+Bird Nest,BN075,1400,Accessories,Bird
+Aquarium Filter,AF076,1500,Accessories,Fish
+Dog Water Bowl,DWB077,700,Accessories,Dog
+Cat Water Bowl,CWB078,700,Accessories,Cat
+Bird Water Bowl,BWB079,600,Accessories,Bird
+Fish Feeder,FF080,800,Accessories,Fish
+Dog Treats,DT081,1300,Food,Dog
+Cat Treats,CT082,1200,Food,Cat
+Bird Treats,BT083,700,Food,Bird
+Fish Treats,FT084,600,Food,Fish
+Dog Blanket,DB085,1700,Accessories,Dog
+Cat Blanket,CB086,1600,Accessories,Cat
+Bird Blanket,BB087,1500,Accessories,Bird
+Fish Ornament,FO088,1200,Accessories,Fish
+Dog Toy Rope,DTR089,800,Toys,Dog
+Cat Toy Wand,CTW090,700,Toys,Cat
+Bird Swing,BRS091,900,Toys,Bird
+Fish Cave,FC092,1100,Accessories,Fish
+Dog Coat,DC093,2100,Accessories,Dog
+Cat Jacket,CJ094,2000,Accessories,Cat
+Bird Jacket,BJ095,1900,Accessories,Bird
+Fish Tank Light,FTL096,1300,Accessories,Fish
+Dog Ball Launcher,DBL097,1400,Toys,Dog
+Cat Laser Toy,CLT098,1500,Toys,Cat
+Bird Toy Bell,BTB099,500,Toys,Bird
+Fish Breeding Box,FBB100,1000,Accessories,Fish
